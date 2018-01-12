@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /educational-advocates-cape-cod
+exclude: ['README.md']
